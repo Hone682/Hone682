@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 학교 수업용 계정
+
 <!--
 **GitTestAccount0/GitTestAccount0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
