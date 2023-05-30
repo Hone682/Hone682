@@ -28,9 +28,10 @@
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   
- ### Skills Of Interest
+ ### ✏️ Skills Of Interest ✏️
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
   
  ### ⭐ Operating System ⭐
   <img src="https://img.shields.io/badge/Mac OS-000?style=flat-square&logo=macOS&logoColor=white"/></a>
